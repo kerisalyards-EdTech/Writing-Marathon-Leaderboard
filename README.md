@@ -468,7 +468,7 @@ HTML Code for Leaderboard
 <body>
   <div class="container">
     <div class="header">
-      <h1>📝 Writing Marathon 2026</h1>
+      <h1>📝 Writing Marathon</h1>
       <p>Race to 50,000 words!</p>
     </div>
     
